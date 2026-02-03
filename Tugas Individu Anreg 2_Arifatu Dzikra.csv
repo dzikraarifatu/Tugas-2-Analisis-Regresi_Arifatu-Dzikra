@@ -1,0 +1,44 @@
+No,Provinsi,Y (Kemiskinan %),X1 (IKLH),X2 (IPM),X3 (TPT %),X4 (PDRB Ribu Rp),X5 (Gini Ratio),,,,,
+1,Aceh,14.45,78.53,74.7,6.03,"43,782",0.296,,Keterangan,Y,Persentase Penduduk Miskin (%),Indikator Kesejahteraan.
+2,Sumatera Utara,8.15,69.8,73.8,5.89,"73,575",0.309,,,X1,Indeks Kualitas Lingkungan Hidup (IKLH),Isu Ekologi/Green Economy.
+3,Sumatera Barat,5.95,71.4,74.2,5.94,"57,047",0.28,,,X1,Indeks Pembangunan Manusia (IPM),Kualitas SDM.
+4,Riau,6.68,71.6,74.95,4.23,"165,350",0.324,,,X3,Tingkat Pengangguran Terbuka (TPT %),Akses Pekerjaan.
+5,Jambi,7.58,70.33,73.73,4.53,"86,722",0.343,,,X4,PDRB Per Kapita (Ribu Rupiah),Pendapatan Rata-rata.
+6,Sumatera Selatan,11.78,72.1,73.18,4.11,"75,132",0.338,,,X5,Gini Ratio,Ketimpangan.
+7,Bengkulu,14.04,75.3,74.3,3.42,"49,233",0.333,,,,,
+8,Lampung,11.11,64.91,72.48,4.23,"51,370",0.324,,Judul,,,
+9,Bangka Belitung,4.52,68.3,74.09,4.56,"70,194",0.245,,"Analisis Dampak Ekonomi Hijau dan Kualitas Manusia terhadap Tingkat Kemiskinan
+di Era Pemulihan Ekonomi Tahun 2023",,,
+10,Kepulauan Riau,5.69,67.8,79.08,6.8,"161,424",0.34,,Alasan,,,
+11,DKI Jakarta,4.44,68.46,83.55,6.53,"344,349",0.431,,"Topik ini dipilih untuk menganalisis kemiskinan sebagai Indikator Kesejahteraan utama melalui
+pendekatan multidimensi yang relevan dengan isu global Green Economy. Model ini
+mengintegrasikan Isu Ekologi (IKLH) untuk melihat dampak kualitas lingkungan terhadap taraf
+hidup, Kualitas SDM (IPM) dan Akses Pekerjaan(TPT) sebagai fondasi produktivitas masyarakat,
+serta Pendapatan Rata-rata (PDRB) yang dikontrol oleh tingkat Ketimpangan (Gini Ratio).
+Kombinasi variabel ini krusial untuk membuktikan bahwa pengentasan kemiskinan yang efektif
+memerlukan sinergi antara pertumbuhan ekonomi, pemerataan sosial,
+dan kelestarian lingkungan secara bersamaan.",,,
+12,Jawa Barat,7.62,61.2,74.28,7.44,"56,080",0.425,,,,,
+13,Jawa Tengah,10.77,64.55,73.39,5.13,"47,972",0.369,,,,,
+14,DI Yogyakarta,11.04,68.7,81.09,3.69,"51,473",0.449,,,,,
+15,Jawa Timur,10.35,68.15,74.65,4.88,"75,770",0.387,,,,,
+16,Banten,6.17,62.4,75.77,7.52,"70,275",0.368,,,,,
+17,Bali,4.25,73.8,78.01,2.69,"67,318",0.362,,,,,
+18,NTB,13.85,70.1,72.37,2.8,"32,282",0.375,,Sumber,Badan Pusat Statistik. (2024). Provinsi Dalam Angka 2024. Jakarta: BPS.,,
+19,NTT,19.96,74.45,68.4,3.14,"24,272",0.325,,,"Badan Pusat Statistik. (2024). Indeks Kualitas Lingkungan Hidup Indonesia 2023.
+Jakarta: Kementerian Lingkungan Hidup dan Kehutanan.",,
+20,Kalimantan Barat,6.71,73.1,70.47,5.05,"52,703",0.321,,,Badan Pusat Statistik. (2024). Indikator Kesejahteraan Rakyat 2024. Jakarta: BPS.,,
+21,Kalimantan Tengah,5.11,75.6,73.73,4.1,"79,320",0.317,,,,,
+22,Kalimantan Selatan,4.29,71.8,74.66,4.31,"67,117",0.313,,,,,
+23,Kalimantan Timur,6.11,77.2,78.2,5.31,"212,175",0.322,,,,,
+24,Kalimantan Utara,6.45,78.9,72.62,4.01,"198,429",0.277,,,,,
+25,Sulawesi Utara,7.38,76.5,75.04,6.1,"69,352",0.37,,,,,
+26,Sulawesi Tengah,12.41,77.8,71.66,2.95,"120,750",0.304,,,,,
+27,Sulawesi Selatan,8.7,72.3,74.6,4.33,"73,573",0.377,,,,,
+28,Sulawesi Tenggara,11.43,75.1,72.94,3.15,"67,840",0.371,,,,,
+29,Gorontalo,15.15,76.9,71.25,3.06,"44,433",0.417,,,,,
+30,Sulawesi Barat,11.49,75.4,69.8,2.27,"42,718",0.351,,,,,
+31,Maluku,16.23,79.1,72.75,6.31,"32,198",0.288,,,,,
+32,Maluku Utara,6.46,78.4,70.98,4.31,"70,659",0.3,,,,,
+33,Papua Barat,21.43,75.2,67.47,5.38,"131,637",0.37,,,,,
+34,Papua,26.03,79.8,63.01,2.67,"81,009",0.386,,,,,
